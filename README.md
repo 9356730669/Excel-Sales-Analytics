@@ -1,6 +1,6 @@
 # Excel-Sales-Analytics
 
-I'm excited to share my latest project: "Sales Analytics", developed using Advanced Excel as part of the "Excel: Mother of Business Intelligence" module at the Codebasics Data Analytics Bootcamp. This project marked a key milestone in my learning journey, completed under the expert mentorship of Dhaval Patel Sir and Hemanand Vadivel Sir.
+I'm excited to share my latest project: "Sales & Finance Analytics", developed using Advanced Excel as part of the "Excel: Mother of Business Intelligence" module at the Codebasics Data Analytics Bootcamp. This project marked a key milestone in my learning journey, completed under the expert mentorship of Dhaval Patel Sir and Hemanand Vadivel Sir.
 
 📊 **Objective:**
  
